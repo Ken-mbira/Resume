@@ -28,3 +28,7 @@ body ,html{
     margin-top: 150px;
     margin-left: 150px;
 }
+.list{
+    list-style-type: none;
+    display:inline;
+}
