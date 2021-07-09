@@ -27,6 +27,7 @@ body ,html{
     color:white;
     margin-top: 150px;
     margin-left: 150px;
+    border: 8px solid gold;
 }
 .list{
     list-style-type: none;
