@@ -17,12 +17,14 @@ body ,html{
     display:inherit;
     margin-right: 100px;
     float: right;
+    -webkit-filter:grayscale(100%);
+    filter: grayscale(100%)
 }
 .titles{
     writing-mode: vertical-rl;
     text-orientation:sideways;
     transform: rotate(-180deg);
-    color:rgb(194, 63, 194);
+    color:white;
     margin-top: 150px;
     margin-left: 150px;
 }
