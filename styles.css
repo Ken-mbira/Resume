@@ -15,5 +15,14 @@ body ,html{
 .image1{
     margin-left:700px;
     display:inherit;
-    margin-right: auto;
+    margin-right: 100px;
+    float: right;
+}
+.titles{
+    writing-mode: vertical-rl;
+    text-orientation:sideways;
+    transform: rotate(-180deg);
+    color:rgb(194, 63, 194);
+    margin-top: 150px;
+    margin-left: 150px;
 }
